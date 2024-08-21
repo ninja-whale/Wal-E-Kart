@@ -20,12 +20,12 @@ Wal E-Kart is an innovative shopping cart system that integrates real-time produ
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/wal-e-kart.git
+   git clone https://github.com/ninja-whale/Wal-E-Kart.git
    ```
    
 2. **Navigate to the Project Directory:**
    ```bash
-   cd wal-e-kart
+   cd Wal-E-Kart
    ```
 
 3. **Open `index.html` in a Web Browser:**
@@ -49,7 +49,7 @@ Wal E-Kart is an innovative shopping cart system that integrates real-time produ
 1. **Fork the Repository:** Click on the "Fork" button at the top right of this page.
 2. **Clone Your Fork:** 
    ```bash
-   git clone https://github.com/ninja-whale/wal-e-kart.git
+   git clone https://github.com/ninja-whale/Wal-E-Kart.git
    ```
 3. **Create a New Branch:**
    ```bash
