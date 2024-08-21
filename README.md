@@ -1,6 +1,5 @@
 Here's a sample `README.md` for your "Smart E-Kart" project that includes sections for project overview, features, installation, usage, and contribution guidelines:
 
-```markdown
 # Wal E-Kart
 
 Wal E-Kart is an innovative shopping cart system that integrates real-time product detection using a camera, displays product information, and provides recommendations based on the items in the cart. This project aims to enhance the shopping experience by offering a smart and interactive cart with an AI assistant.
