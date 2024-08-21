@@ -73,10 +73,3 @@ Wal E-Kart is an innovative shopping cart system that integrates real-time produ
 
 ```
 
-### Instructions to Customize:
-
-1. **Replace `https://github.com/yourusername/smart-e-kart.git`** with your actual GitHub repository URL.
-2. **Modify the "Acknowledgments" section** to credit anyone specific who helped with the project.
-3. **Add any additional sections** or details relevant to your project, such as API documentation or specific setup instructions.
-
-This `README.md` provides a comprehensive overview of your project and guides users on how to get started, use the application, and contribute.
